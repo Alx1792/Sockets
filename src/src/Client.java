@@ -1,5 +1,5 @@
-import java.io.*;  // Classes per entrada/sortida
-import java.net.*; // Classes per xarxes
+import java.io.*; //Els buffered els input i tal, entrada i sortida basicament
+import java.net.*; //Socket i aquestes cose sde xarxes
 
 public class Client {
     public static void main(String[] args) {
